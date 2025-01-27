@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WorkspaceSettings">
+    <project name="star_repository" path="$PROJECT_DIR$/../star_repository">
+      <vcs id="Git" remoteUrl="https://github.com/kondirova/star_repository.git" />
+    </project>
+    <project name="test-star" path="$PROJECT_DIR$/../test-star" />
+    <option name="workspace" value="true" />
+  </component>
+</project>
